@@ -14,6 +14,9 @@ sys.version
 # 라이브러리 버전 확인
 import pandas as pd
 pd.__version__
+
+# 파이썬 경로 확인(mac versino)
+which python
 ```
 
   
